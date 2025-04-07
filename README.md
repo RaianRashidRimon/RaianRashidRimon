@@ -1,9 +1,9 @@
 <br clear="both">
 <hr>
-<h3 align="center">Driven by a deep curiosity for how intelligent systems work, I’m actively exploring the world of Artificial Intelligence, Machine Learning, Large Language Models, and Generative AI out of personal interest and passion. Currently, I’m pursuing a B.Sc. in Computer Science and Engineering at Jahangirnagar University. <br>
+<h4 align="center">Driven by a deep curiosity for how intelligent systems work, I’m actively exploring the world of Artificial Intelligence, Machine Learning, Large Language Models, and Generative AI out of personal interest and passion. Currently, I’m pursuing a B.Sc. in Computer Science and Engineering at Jahangirnagar University. <br>
   
   
-<br>As a tech enthusiast 🤖 I enjoy tinkering with new ideas—whether it’s diving into AI or ML frameworks, building small Lego models, or wondering if I would ever look good in a Spider-Man suit. In the quieter corners of my day, you’ll often find me playing with my cats 🐾 to recharge creativity through the little joys that keep the curiosity alive.</h3>
+<br>As a tech enthusiast 🤖 I enjoy tinkering with new ideas—whether it’s diving into AI or ML frameworks, building small Lego models, or wondering if I would ever look good in a Spider-Man suit. In the quieter corners of my day, you’ll often find me playing with my cats 🐾 to recharge creativity through the little joys that keep the curiosity alive.</h4>
 
 ###
 
