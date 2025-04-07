@@ -1,8 +1,9 @@
 <br clear="both">
 
-<h3 align="center">Driven by a deep curiosity for how intelligent systems work, I’m actively exploring the world of Artificial Intelligence, Machine Learning, Large Language Models, and Generative AI out of personal interest and passion. Currently, I’m pursuing a B.Sc. in Computer Science and Engineering at Jahangirnagar University. As a tech enthusiast 🤖 <br><br>I enjoy tinkering with new ideas—whether it’s diving into AI frameworks, building small Lego models, or simply observing patterns in everyday life. Outside the screen, you’ll often find me playing with my cats 🐾 
+<h3 align="center">Driven by a deep curiosity for how intelligent systems work, I’m actively exploring the world of Artificial Intelligence, Machine Learning, Large Language Models, and Generative AI out of personal interest and passion. Currently, I’m pursuing a B.Sc. in Computer Science and Engineering at Jahangirnagar University. <br>
   
-  recharging creativity through the little joys that keep the curiosity alive.</h3>
+  
+<br>As a tech enthusiast 🤖 I enjoy tinkering with new ideas—whether it’s diving into AI or ML frameworks, building small Lego models, or wondering if I would ever look good in a Spider-Man suit. In the quieter corners of my day, you’ll often find me playing with my cats 🐾 to recharge creativity through the little joys that keep the curiosity alive.</h3>
 
 ###
 
@@ -33,23 +34,17 @@
 
 <div align="center">
   <a href="https://www.facebook.com/rr.rimon" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="40" alt="facebook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="40" alt="facebook logo"  />
   </a>
   <a href="https://linkedin.com/in/raian-rashid-rimon" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/rimon_lemon/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:rimonraian2@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-
 
 ###
