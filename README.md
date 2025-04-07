@@ -1,5 +1,6 @@
-<br clear="both">
 <hr>
+<br clear="both">
+
 <h4 align="center">Driven by a deep curiosity for how intelligent systems work, I’m actively exploring the world of Artificial Intelligence, Machine Learning, Large Language Models, and Generative AI out of personal interest and passion. Currently, I’m pursuing a B.Sc. in Computer Science and Engineering at Jahangirnagar University. <br>
   
   
