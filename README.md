@@ -46,16 +46,16 @@ As a tech enthusiast, I enjoy tinkering with new ideas—whether it’s diving i
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaianRashidRimon&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RaianRashidRimon&theme=midnight-purple&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaianRashidRimon&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RaianRashidRimon&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=0" height="190" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RaianRashidRimon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaianRashidRimon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=true" height="190" alt="languages graph"  />
-</div>
 
 ###
 
