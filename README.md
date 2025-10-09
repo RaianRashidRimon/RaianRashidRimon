@@ -4,7 +4,7 @@
 <h3 align="center">Exploring Intelligence | AI Enthusiast | DL & LLM Explorer</h3>
 
 <p align="center">
-With my academic foundation in CSE from Jahangirnagar University, I’m now channeling my curiosity into real-world challenges in <b>Artificial Intelligence</b>, <b>Deep Learning</b>, <b>Large Language Models</b> and <b>Generative AI</b>; driven purely by personal interest and passion.
+With my academic foundation in CSE from Jahangirnagar University, I’m now channeling my curiosity into real-world challenges in <b>Artificial Intelligence</b>, <b>Deep Learning</b>, <b>Large Language Models</b>, <b>Generative AI</b> and <b>Data Science</b>; driven purely by personal interest and passion.
 </p>
 
 
