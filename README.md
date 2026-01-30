@@ -1,10 +1,10 @@
 <hr>
 <br clear="both">
 
-<h3 align="center">Exploring Intelligence | AI Enthusiast | DL & LLM Explorer</h3>
+<h3 align="center">Exploring Intelligence | AI & ML Enthusiast | GenAI & LLM Explorer</h3>
 
 <p align="center">
-With my academic foundation in CSE from Jahangirnagar University, I’m now channeling my curiosity into real-world challenges in <b>Artificial Intelligence</b>, <b>Deep Learning</b>, <b>Large Language Models</b>, <b>Generative AI</b> and <b>Data Science</b>; driven purely by personal interest and passion.
+With my academic foundation in CSE from Jahangirnagar University, I’m now channeling my curiosity into real-world challenges in <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Large Language Models</b>, <b>Generative AI</b> and <b>Data Science</b>; driven purely by personal interest and passion.
 </p>
 
 
@@ -46,7 +46,7 @@ As a tech enthusiast, I enjoy tinkering with new ideas, whether it’s diving in
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaianRashidRimon&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" /><br>
+  <!---<img src="https://github-readme-stats.vercel.app/api?username=RaianRashidRimon&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" /><br>-->
   <img src="https://nirzak-streak-stats.vercel.app/?user=RaianRashidRimon&theme=midnight-purple&hide_border=true" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaianRashidRimon&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
