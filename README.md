@@ -27,7 +27,7 @@ As a tech enthusiast, I enjoy tinkering with new ideas, whether it’s diving in
 
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.facebook.com/rr.rimon" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="55" height="40" alt="facebook logo"  />
   </a>
@@ -41,7 +41,7 @@ As a tech enthusiast, I enjoy tinkering with new ideas, whether it’s diving in
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
   </a>
  
-</div>
+</div> -->
 
 ###
 
